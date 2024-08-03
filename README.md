@@ -1,6 +1,6 @@
 # Task-Manager
 
-Welcome to Task Master Pro, a comprehensive Java application designed to manage tasks efficiently. This project is developed and maintained by DevOps Shack, a YouTube channel dedicated to DevOps tutorials and best practices.
+Welcome to Task Manager, a comprehensive Java application designed to manage tasks efficiently. This project is developed and maintained by Tohid Hanfi.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -67,16 +67,7 @@ Once the application is running, you can access it at `http://localhost:8080`. Y
 
 ## Contributing
 
-We welcome contributions to improve Task Master Pro. If you have a feature request, bug report, or improvement suggestion, please open an issue or submit a pull request.
-
-### Steps to Contribute
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some feature'`)
-5. Push to the branch (`git push origin feature-branch`)
-6. Open a pull request
+We welcome contributions to improve Task Manager. If you have a feature request, bug report, or improvement suggestion, please open an issue or submit a pull request.
 
 ## License
 
