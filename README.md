@@ -34,7 +34,7 @@ Task-Manager is a task management application built using Java. It provides a ro
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/tohidhanfi20/Task-Manager).git
+    git clone https://github.com/tohidhanfi20/Task-Manager.git
     cd Task-Manager
     ```
 
